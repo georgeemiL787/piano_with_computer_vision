@@ -10,8 +10,9 @@ Paper Piano lets you play a virtual piano by drawing a keyboard on a piece of pa
 
 ---
 
-> **🎬 Demo Video:** Want to see it in action? [Check out the demo video here!](#)  
-> *(Replace this link with your actual video URL)*
+> **🎬 Demo Video:** Want to see it in action? [Download and watch the demo video here!](./Demo%20Video.mp4)
+> 
+> *(Click the link to download and play the video locally. GitHub does not support direct playback of video files in the README.)*
 
 ---
 
